@@ -1,5 +1,5 @@
 ---
-title: Cheaper Phone Bill
+title: Free Stuff
 permalink: /financial/
 layout: page
 ---

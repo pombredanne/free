@@ -1,6 +1,6 @@
 ---
-title: Cheaper Phone Bill
-permalink: /education/
+title: Education Listing
+permalink: financial/education/
 layout: page
 ---
 

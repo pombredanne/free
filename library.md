@@ -1,6 +1,6 @@
 ---
-title: Cheaper Phone Bill
-permalink: /library/
+title: Library Listing
+permalink: financial/library/
 layout: page
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Cheaper Phone Bill
-permalink: /tools/
+title: Free tools
+permalink: financial/tools/
 layout: page
 ---
 
