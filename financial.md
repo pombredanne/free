@@ -1,6 +1,6 @@
 ---
 title: Free Stuff
-permalink: /financial
+permalink: /financial/
 layout: page
 ---
 
